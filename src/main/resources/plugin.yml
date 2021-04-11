@@ -1,0 +1,18 @@
+name: Brackets
+version: ${project.version}
+main: dev.barbar.brackets.Main
+api-version: 1.16
+commands:
+  bspawn:
+    description: "use lowercase cause im lazy - barbar"
+    permission: op.op
+    usage:
+  set:
+    description: "use lowercase cause im lazy - barbar"
+    permission: op.op
+    usage:
+  start:
+    description: "use lowercase cause im lazy - barbar"
+    permission: op.op
+    usage:
+
